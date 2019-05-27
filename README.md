@@ -30,6 +30,11 @@ Don't give this out to anyone! You'll need this token soon.
 
 Note: If you change your password or enable/disable two-factor authentication, your token will change. If this happens, and you've already set up the bot, you'll need to change the token by editing the config.json file under settings.
 
+##Plan and Work In Progresss
+- [ ] Bot Able To Read And Analyze Mudae Data
+- [ ] Client and Server Able To Transfer Data Through Http ( or Json)
+- [ ] Server Save And Sync Claiming Times
+
 ## Usage
 
 Place Holder
