@@ -1,5 +1,5 @@
 ### Discord has become more strict about selfbot use and will ban without warning. I don't take any responsibility about what happen to your account
-
+### I just update readme first , script come in 1-2 days since it start buggy on new Mudae message
 
 # Mudae Stealer
 
@@ -31,9 +31,13 @@ Don't give this out to anyone! You'll need this token soon.
 Note: If you change your password or enable/disable two-factor authentication, your token will change. If this happens, and you've already set up the bot, you'll need to change the token by editing the config.json file under settings.
 
 ## Plan and Work In Progresss
-- [ ] Bot Able To Read And Analyze Mudae Data
-- [ ] Client and Server Able To Transfer Data Through Http ( or Json)
+- [x] Bot Able To Read And Analyze Mudae Data
+- [x] Client and Server Able To Transfer Data Through Http ( or Json)
 - [ ] Server Save And Sync Claiming Times
+
+## Knowledge Bug
+
+Lore ipsum
 
 ## Usage
 
